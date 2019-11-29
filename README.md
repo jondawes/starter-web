@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 adding a line to rebase demo
+more changes in my feature branch
 
 ## How to Contribute
 Any way you like - this thing is just a test for a course
