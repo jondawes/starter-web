@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 Any way you like - this thing is just a test for a course
+Best if you fork though.
 
 ## Deployment
 Well it probably won't work, let's face it.
