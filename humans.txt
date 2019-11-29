@@ -3,12 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
     Jon	Guru	@jondawes
 
 # THANKS
 
-    <name>
+    To my instructor
 
 # TECHNOLOGY COLOPHON
 
